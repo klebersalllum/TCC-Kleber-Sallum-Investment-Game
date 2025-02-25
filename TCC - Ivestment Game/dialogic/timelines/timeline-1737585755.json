@@ -1,0 +1,101 @@
+{
+	"events": [
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1737585772.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1737585772.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Boa tarde Kleber, Como posso te ajudar ?"
+		},
+		{
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Boa tarde Professor, como hoje é meu aniversário eu ganhei R$500,00 de presente da minha mãe,\n\ne meu pai me aconselhou a tentar gerir melhor o meu dinheiro...\n\nGostaria de saber se em algum ponto do meu ensino aqui nessa escola em que eu irei aprender sobre investimentos."
+		},
+		{
+			"character": "character-1737585772.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nossa eu havia esquecido que era seu aniversário...\n\nMEUS PARABÉNS!!!\n\nEntão, esse assunto é um caso delicado aqui no Brasil...\n\nInfelizmente, a educação financeira não faz parte do currículo obrigatório das escolas. \n\nMas fico feliz em ver seu interesse em aprender sobre investimentos!"
+		},
+		{
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Entendo, é uma pena que não tenhamos essas aulas. Mas o senhor acha que eu poderia aprender de alguma outra forma?"
+		},
+		{
+			"character": "character-1737585772.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Com certeza! Existem muitos recursos que podem te ajudar. Posso te indicar alguns livros e sites confiáveis sobre educação financeira. Além disso, há cursos online que são excelentes para iniciantes.\n\nAqui na cidade também tem um centro de investimento  logo ali na esquina, caso você queira dar uma passada lá, acho que eles podem te ensinar muitas coisas."
+		},
+		{
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " Isso seria ótimo, professor! Eu realmente quero saber como investir meu dinheiro de forma inteligente."
+		},
+		{
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Obrigado pela orientação.  Até mais, professor!"
+		},
+		{
+			"character": "character-1737585772.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Até mais, Kleber. Nos vemos na próxima aula."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1737585755.json",
+		"name": "Professor"
+	}
+}

@@ -1,0 +1,135 @@
+{
+	"events": [
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Olá, eu sou o Kleber, gostaria de aprender mais sobre Cryptomoedas !"
+		},
+		{
+			"animation": "4-fade_out.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1738087761.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1738087761.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As criptomoedas são formas de dinheiro digital que utilizam criptografia para garantir a segurança das transações e controlar a criação de novas unidades.\n\n Diferentemente das moedas tradicionais emitidas por governos (como o real ou o dólar), as criptomoedas operam em uma rede descentralizada baseada na tecnologia blockchain.\n\nAs criptomoedas representam uma inovação significativa no setor financeiro, oferecendo novas possibilidades para transações e serviços econômicos. \n\nNo entanto, é importante que os usuários compreendam seu funcionamento e riscos antes de participar desse mercado."
+		},
+		{
+			"character": "character-1738087761.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Você deseja aprender mais sobre Cryptomoedas?"
+		},
+		{
+			"choice": "Sim !",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1738087761.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\nBlockchain: É a tecnologia subjacente que registra todas as transações de forma transparente e imutável. Funciona como um livro-razão público distribuído entre os participantes da rede.\n\nTransações Globais: Permitem enviar e receber valores para qualquer lugar do mundo sem intermediários, geralmente com taxas menores e de forma mais rápida que os sistemas bancários tradicionais."
+		},
+		{
+			"choice": "Não !",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1738087761.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": " Pronto para começar a investir com inteligência?"
+		},
+		{
+			"choice": "SIM !!!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1738087761.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mas sempre lembre-se ! O mais importante é sempre diversificar sua banca !\n\nNão coloque todos seus ovos na mesma sacola !"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1738087726.json",
+		"name": "CryptoLecture"
+	}
+}

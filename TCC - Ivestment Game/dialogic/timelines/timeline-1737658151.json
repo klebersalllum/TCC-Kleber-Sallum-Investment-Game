@@ -1,0 +1,19 @@
+{
+	"events": [
+		{
+			"character": "character-1737658132.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "BEM VINDO AO INVESTMENT GAME !!!\n\nUM JOGO PARA APRENDER SOBRE INVESTIMENTOS DE MANEIRA INTERATIVA !!!\n\nBOA SORTE !!!"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1.5
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1737658151.json",
+		"name": "InvestmentGame"
+	}
+}

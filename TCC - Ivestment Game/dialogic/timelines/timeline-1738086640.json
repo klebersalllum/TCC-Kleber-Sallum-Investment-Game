@@ -1,0 +1,109 @@
+{
+	"events": [
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Olá, eu sou o Kleber, gostaria de aprender mais sobre o BDR's !"
+		},
+		{
+			"animation": "4-fade_out.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1738086695.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1738086695.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "BDR (Brazilian Depositary Receipt) é um instrumento financeiro negociado na B3 (Bolsa de Valores brasileira) que representa ações emitidas por empresas estrangeiras. \n\nEm outras palavras, o BDR permite que investidores brasileiros invistam em empresas do exterior através da bolsa no Brasil, sem a necessidade de operar diretamente em mercados internacionais.\n\nOs BDRs são uma alternativa interessante para investidores brasileiros que desejam diversificar seus investimentos e participar do desempenho de empresas globais.\n\n Ao investir em BDRs, é possível aproveitar oportunidades em setores e mercados que podem não estar disponíveis no Brasil. \n\nContudo, é essencial estar atento aos riscos envolvidos, compreender as características do ativo e considerar o alinhamento com seus objetivos financeiros e perfil de risco."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "E lembre-se, estou aqui para esclarecer suas dúvidas e te ajudar nessa jornada financeira. "
+		},
+		{
+			"character": "character-1738086695.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Pronto para começar a investir com inteligência?"
+		},
+		{
+			"choice": "SIM !!!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1738086695.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mas sempre lembre-se ! O mais importante é sempre diversificar sua banca !\n\nPara você não ficar dependendo de uma só coisa !"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1738086640.json",
+		"name": "BdrLecture"
+	}
+}

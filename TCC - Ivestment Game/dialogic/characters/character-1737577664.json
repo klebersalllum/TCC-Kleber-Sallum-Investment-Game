@@ -1,0 +1,21 @@
+{
+	"color": "#ffe90af0",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1737577664.json",
+	"mirror_portraits": false,
+	"name": "Mãe",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 40,
+	"offset_y": -20,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Assets/Characters/mae.png"
+		}
+	],
+	"scale": 60,
+	"theme": ""
+}

@@ -1,0 +1,141 @@
+{
+	"events": [
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1737484046.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1737484046.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Boa Tarde ! Bem vindo ao guia do Mercado Financeito !\nMeu nome é Matheus ! Como posso lhe ajudar ?"
+		},
+		{
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Olá, eu sou o Kleber, gostaria de aprender sobres minhas opções de investimento no mercado finaceiro !"
+		},
+		{
+			"character": "character-1737484046.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nossa, olha que sorte a sua !!! \n\nNós temos professores dando palestras sobre 4 formas de investimento hoje aqui !!!"
+		},
+		{
+			"character": "character-1737484046.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Sobre quais ativos você deseja aprender ?"
+		},
+		{
+			"choice": "Renda Variável",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1737484046.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A palestra sobre Renda Variável vai começar agora !\n\nVai para a sala à sua direita, a porta fica na parte de cima do sofá."
+		},
+		{
+			"choice": "Renda Fixa",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1737484046.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Que sorte a sua, a palestra de Renda Fixa irá começar agora !\n\nVai para a sala à sua direita, a porta fica na parte de baixo do sofá."
+		},
+		{
+			"choice": "BDR's",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1737484046.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nossa, hoje você está realmente com sorte !!!\n\nA palestra sobre BDR's irá começar agora !!!\n\nEla está localizada a sua esquerda, a porta fica na parte de cima do sofá."
+		},
+		{
+			"choice": "Crypto Moedas",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1737484046.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A palestra sobre Cryptomoedas vai começar agora !\n\nVai para a sala à sua esquerda, a porta fica na parte de baixo do sofá."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nossa que sorte realmente !!!\n\nMuito Obrigado !!!"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1737502083.json",
+		"name": "timeline-1"
+	}
+}

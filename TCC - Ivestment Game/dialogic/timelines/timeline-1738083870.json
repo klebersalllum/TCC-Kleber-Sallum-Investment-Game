@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "character-1737649542.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você ainda não foi na palestra sobre esse investimento.\n\nPorfavor volte quando tiver ido !!!"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1738083870.json",
+		"name": "DoNotTalked"
+	}
+}

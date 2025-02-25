@@ -1,0 +1,60 @@
+{
+	"events": [
+		{
+			"condition": "==",
+			"definition": "1737568742-861",
+			"event_id": "dialogic_012",
+			"value": "0"
+		},
+		{
+			"condition": "==",
+			"definition": "1737659560-868",
+			"event_id": "dialogic_012",
+			"value": "200"
+		},
+		{
+			"condition": "==",
+			"definition": "1737659585-121",
+			"event_id": "dialogic_012",
+			"value": "100"
+		},
+		{
+			"condition": "",
+			"definition": "1737659604-395",
+			"event_id": "dialogic_012",
+			"value": "100"
+		},
+		{
+			"condition": "",
+			"definition": "1737672894-965",
+			"event_id": "dialogic_012",
+			"value": "100"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Parabéns !!!\n\n Você diversificou muito bem sua banca !!!\n\nColocando a maioria do seu dinheiro em Renda Fixa !!!\n\nE dividindo entre as outras categorias !!!\n\nContinue assim !!!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1738776794.json",
+		"name": "Feedback"
+	}
+}

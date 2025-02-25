@@ -1,0 +1,73 @@
+{
+	"glossary": [
+
+	],
+	"variables": [
+		{
+			"id": "1738172144-648",
+			"name": "New value",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1738174907-648",
+			"name": "New value",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1738174908-787",
+			"name": "New value",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1738174908-366",
+			"name": "New value",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1738174909-146",
+			"name": "New value",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1738183437-648",
+			"name": "bucetada",
+			"type": 0,
+			"value": "20"
+		},
+		{
+			"id": "1737672894-965",
+			"name": "Bdr",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1737659604-395",
+			"name": "Crypto",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1737659560-868",
+			"name": "Renda Fixa",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1737659585-121",
+			"name": "Renda Variavel",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1737568742-861",
+			"name": "Dinheiro",
+			"type": 0,
+			"value": "0"
+		}
+	]
+}

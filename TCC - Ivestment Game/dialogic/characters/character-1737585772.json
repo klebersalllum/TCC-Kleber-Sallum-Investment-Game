@@ -1,0 +1,21 @@
+{
+	"color": "#ffead20f",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1737585772.json",
+	"mirror_portraits": false,
+	"name": "Professor Carlos",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 40,
+	"offset_y": -20,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Assets/Characters/fixolecture.png"
+		}
+	],
+	"scale": 60,
+	"theme": ""
+}

@@ -1,0 +1,21 @@
+{
+	"color": "#ff090909",
+	"description": "",
+	"display_name": "Player",
+	"display_name_bool": true,
+	"id": "character-1737563614.json",
+	"mirror_portraits": false,
+	"name": "Player",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": -35,
+	"offset_y": -20,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Assets/Player/PLAYER.png"
+		}
+	],
+	"scale": 100,
+	"theme": "theme-1737499132.cfg"
+}

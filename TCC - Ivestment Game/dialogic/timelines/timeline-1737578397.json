@@ -1,0 +1,101 @@
+{
+	"events": [
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1737578406.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1737578406.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "MEEEEEUS PARABÉNS !!!\n\nCOMO ESTÁ SENDO SEU DIA MEU FILHO ?"
+		},
+		{
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Obrigado pai !!!\n\nESTÁ SENDO MARAVILHOSO !!!\n\nACABEI DE GANHAR R$500,00 DA MINHA MÃE !!!"
+		},
+		{
+			"character": "character-1737578406.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nossa filho que legal !!!\n\nVocê já sabe oque vai fazer com o dinheiro ?"
+		},
+		{
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Não sei ainda ... Acho que vou comprar roupas novas e sair com meus amigos ."
+		},
+		{
+			"character": "character-1737578406.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Entendi...\n\nMas, R$500,00 é muito dinheiro na sua idade ...\n\nVocê deveria começar a investir esse dinheiro em alguma coisa !"
+		},
+		{
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Investir ?\n\nNão sei nada sobre isso, na escola não me ensinaram nada ainda..."
+		},
+		{
+			"character": "character-1737578406.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Entendi...\n\nPorque você não vai na escola e pergunta para seus professores se eles vão te ensinar a investir em \n\nalgum momento, pois se não for esse o caso você deverá aprender sozinho, porque é um fundamento básico para crescer na sua vida adulta."
+		},
+		{
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Tá bom, Pai ...\n\nFarei isso, agora mesmo !"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1737578397.json",
+		"name": "Dad"
+	}
+}

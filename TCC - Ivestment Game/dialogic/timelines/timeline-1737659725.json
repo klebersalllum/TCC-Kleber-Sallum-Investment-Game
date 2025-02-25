@@ -1,0 +1,107 @@
+{
+	"events": [
+		{
+			"condition": ">",
+			"definition": "1737659585-121",
+			"event_id": "dialogic_012",
+			"value": "0"
+		},
+		{
+			"character": "character-1737658132.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você Possui:"
+		},
+		{
+			"condition": "==",
+			"definition": "1737659585-121",
+			"event_id": "dialogic_012",
+			"value": "500"
+		},
+		{
+			"character": "character-1737658132.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "R$500 Investidos em Renda Variavel !"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "==",
+			"definition": "1737659585-121",
+			"event_id": "dialogic_012",
+			"value": "400"
+		},
+		{
+			"character": "character-1737658132.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "R$400  Investidos em Renda Variavel !"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "==",
+			"definition": "1737659585-121",
+			"event_id": "dialogic_012",
+			"value": "300"
+		},
+		{
+			"character": "character-1737658132.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "R$300 Investidos em Renda Variavel !"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "==",
+			"definition": "1737659585-121",
+			"event_id": "dialogic_012",
+			"value": "200"
+		},
+		{
+			"character": "character-1737658132.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "R$200 Investidos em Renda Variavel !"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "==",
+			"definition": "1737659585-121",
+			"event_id": "dialogic_012",
+			"value": "100"
+		},
+		{
+			"character": "character-1737658132.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "R$100 Investidos em Renda Variavel !"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"change_timeline": "timeline-1737659734.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1737659725.json",
+		"name": "Variavel"
+	}
+}

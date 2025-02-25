@@ -1,0 +1,121 @@
+{
+	"events": [
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Olá, eu sou o Kleber, gostaria de aprender sobre o Renda Fixa !"
+		},
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1738345441.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1737674294.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Olá, bem-vindo ao mundo dos investimentos! Vejo que você está interessado em aprender sobre renda fixa, não é mesmo? Deixe-me te explicar de maneira simples.\n\nA renda fixa é um tipo de investimento no qual as condições de remuneração são definidas no momento da aplicação ou possuem regras claras de cálculo, proporcionando ao investidor previsibilidade sobre os rendimentos que receberá. Geralmente, esses investimentos envolvem o empréstimo de dinheiro a uma instituição, como o governo, bancos ou empresas, que em troca pagam juros ao investidor.\n\nEm resumo, a renda fixa oferece maior segurança e previsibilidade de retorno, sendo uma opção atrativa para investidores que buscam estabilidade e menor exposição ao risco.\n\n É uma ferramenta importante no planejamento financeiro, permitindo alinhar os investimentos aos objetivos pessoais e ao perfil de risco de cada investidor."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "E lembre-se, estou aqui para esclarecer suas dúvidas e te ajudar nessa jornada financeira. "
+		},
+		{
+			"character": "character-1737667519.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Você deseja aprender mais sobre Renda Fixa ?"
+		},
+		{
+			"choice": "Sim !",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1737667519.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Agora, vamos aos exemplos de investimentos em Renda Fixa:\n\nTítulos do Tesouro Direto: Emitidos pelo governo federal, incluem o Tesouro Selic, Tesouro Prefixado e Tesouro IPCA+. São considerados investimentos de menor risco no mercado brasileiro.\n\nCDBs (Certificados de Depósito Bancário): Títulos emitidos por bancos para captar recursos, com remuneração que pode ser prefixada ou pós-fixada, geralmente atrelada ao CDI.\n\nLCIs e LCAs (Letras de Crédito Imobiliário e do Agronegócio): Títulos isentos de Imposto de Renda para pessoas físicas, emitidos por bancos para financiar os setores imobiliário e do agronegócio.\n\nDebêntures: Títulos de dívida emitidos por empresas para financiar suas atividades, podendo oferecer rendimentos atrativos, mas com risco maior em relação a títulos públicos."
+		},
+		{
+			"choice": "Não !",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1737674294.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": " Pronto para começar a investir com inteligência?"
+		},
+		{
+			"choice": "SIM !!!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1737674294.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mas sempre lembre-se ! O mais importante é sempre variar seu dinheiro em vários ativos !"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1737673936.json",
+		"name": "FixoLecture"
+	}
+}

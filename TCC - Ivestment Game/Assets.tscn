@@ -1,0 +1,46 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://Assets/UI/Pokemon Party/party_background.png" type="Texture" id=7]
+[ext_resource path="res://Assets.gd" type="Script" id=14]
+
+[sub_resource type="Animation" id=1]
+resource_name = "Idle"
+loop = true
+
+[sub_resource type="Animation" id=3]
+resource_name = "Idle"
+loop = true
+
+[sub_resource type="Animation" id=4]
+resource_name = "Idle"
+loop = true
+
+[node name="Assets" type="Node2D"]
+script = ExtResource( 14 )
+
+[node name="TextureRect" type="TextureRect" parent="."]
+margin_left = 3.0
+margin_top = -66.0
+margin_right = 243.0
+margin_bottom = 94.0
+texture = ExtResource( 7 )
+
+[node name="FirstPokemonSlot" type="Node2D" parent="."]
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="FirstPokemonSlot"]
+autoplay = "Idle"
+anims/Idle = SubResource( 1 )
+
+[node name="SecondPokemonSlot" type="Node2D" parent="."]
+position = Vector2( 119, -26 )
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="SecondPokemonSlot"]
+autoplay = "Idle"
+anims/Idle = SubResource( 3 )
+
+[node name="ThirdPokemonSlot" type="Node2D" parent="."]
+position = Vector2( 119, -2 )
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="ThirdPokemonSlot"]
+autoplay = "Idle"
+anims/Idle = SubResource( 4 )

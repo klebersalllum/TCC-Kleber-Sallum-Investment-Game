@@ -1,0 +1,21 @@
+{
+	"color": "#ff2015e8",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1737578406.json",
+	"mirror_portraits": false,
+	"name": "Pai",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 40,
+	"offset_y": -20,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Assets/Characters/professor.png"
+		}
+	],
+	"scale": 60,
+	"theme": ""
+}

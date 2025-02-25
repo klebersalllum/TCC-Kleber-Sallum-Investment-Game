@@ -1,0 +1,79 @@
+{
+	"events": [
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1737577664.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1737577664.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Bom dia, meu filho querido !!!\n\nComo hoje é seu aniversário eu tenho um presente pra você !!!\n\nEu vou te dar R$500  para você gastar como quiser !!!"
+		},
+		{
+			"definition": "1737568742-861",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "500"
+		},
+		{
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nossa, MUITO OBRIGADO MÃE !!!\n\nEU TE AMO MUITOOO !!!!"
+		},
+		{
+			"character": "character-1737577664.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "EU TAMBÉM TE AMO !!!"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1737577625.json",
+		"name": "Start"
+	}
+}

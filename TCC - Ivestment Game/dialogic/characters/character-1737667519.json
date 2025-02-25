@@ -1,0 +1,21 @@
+{
+	"color": "#fff207f4",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1737667519.json",
+	"mirror_portraits": false,
+	"name": "VariavelLecture",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": -40,
+	"offset_y": -20,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Assets/Characters/variavel character.png"
+		}
+	],
+	"scale": 60,
+	"theme": ""
+}

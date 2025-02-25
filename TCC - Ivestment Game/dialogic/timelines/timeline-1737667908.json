@@ -1,0 +1,85 @@
+{
+	"events": [
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1737563614.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Olá, eu sou o Kleber, gostaria de aprender sobre  Renda Variável !"
+		},
+		{
+			"character": "character-1737667519.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Olá, bem-vindo ao mundo dos investimentos! Vejo que você está interessado em aprender sobre renda variável, não é mesmo? Deixe-me te explicar de maneira simples.\n\nA renda variável é um tipo de investimento onde você não sabe exatamente quanto vai ganhar no momento da aplicação. Isso porque o retorno depende das oscilações do mercado financeiro. Os resultados podem variar de acordo com a economia, política, e até com o desempenho de uma empresa ou setor específico.\n\nA renda variável oferece a chance de ganhos maiores, mas também traz riscos maiores. É como navegar em mar aberto: pode ser emocionante e recompensador, mas exige preparação e cuidado.\n\nSe você estiver disposto a aprender, acompanhar o mercado e agir com disciplina, a renda variável pode ser uma excelente opção para fazer seu dinheiro render mais."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "E lembre-se, estou aqui para esclarecer suas dúvidas e te ajudar nessa jornada financeira. "
+		},
+		{
+			"character": "character-1737667519.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Você deseja aprender mais sobre renda Variavel ?"
+		},
+		{
+			"choice": "Sim !",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1737667519.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Entendido !\n\nEntão, agora vamos aos exemplos de investimentos em renda variável:\n\nAções: Ao comprar ações, você se torna sócio de uma empresa! Isso mesmo. Você pode lucrar se o valor das ações subir ou receber dividendos, que são partes dos lucros distribuídos aos acionistas.\n\nFundos Imobiliários (FIIs): Aqui, você investe em imóveis, como shoppings, edifícios comerciais e residenciais. Os rendimentos vêm dos aluguéis ou da venda desses imóveis.\n\nETFs (Exchange Traded Funds): São fundos que replicam índices do mercado. É como investir em várias empresas ao mesmo tempo, com apenas uma aplicação.\n\nOpções e Derivativos: São contratos financeiros cujo valor depende de outro ativo, como ações ou moedas. Podem ser usados para potencializar ganhos ou proteger investimentos, mas são mais complexos e arriscados.\n\nCommodities: Você pode investir em produtos como ouro, petróleo ou grãos. Os preços dessas commodities são influenciados pelo mercado internacional."
+		},
+		{
+			"choice": "Não !",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Espero que você tenha aprendido sobre Renda Variavel !\n\nMas lembre-se de sempre diversificar seus investimentos!!!"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1737667908.json",
+		"name": "VariavelLecture"
+	}
+}
